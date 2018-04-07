@@ -1,6 +1,6 @@
 Часть 1.  
 1)
-![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(1).png)  
+![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(6).png)  
 2)   
 ![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(2).png)  
 3)  

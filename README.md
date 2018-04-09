@@ -1,4 +1,3 @@
-L
 Часть 1.  
 1)
 ![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(6).png)  
@@ -15,7 +14,7 @@ L
 Слова "pile" и "stack" переводятся, как "нагромождать, складывать в кучу".   
 Пример употребления object только со словом pile: "to pile rubish".  
 Пример употребления object только со словом stack: stacked odds "The odds are stacked against the shrewd Bingham..."  
-C "plate" какими дополнениями могут употребляться оба глагола.
+Оба глагола могут употребляться с дополнением "plate".
 3)  
 Я выбрала слово oversee. 
 Частотность слова в Sketch Engine:  

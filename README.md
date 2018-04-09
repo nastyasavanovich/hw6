@@ -1,3 +1,4 @@
+L
 Часть 1.  
 1)
 ![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(6).png)  
@@ -15,3 +16,11 @@
 Пример употребления object только со словом pile: "to pile rubish".  
 Пример употребления object только со словом stack: stacked odds "The odds are stacked against the shrewd Bingham..."  
 C "plate" какими дополнениями могут употребляться оба глагола.
+3)  
+Я выбрала слово oversee. 
+Частотность слова в Sketch Engine:  
+![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(9).png)
+Частотность слова в Google Ngram: 
+![Image alt](https://github.com/nastyasavanovich/hw6/blob/master/Снимок%20экрана%20(10).png)  
+Данные практически одинаковые, оличие лишь в том, что в период с 1990 по 1993 в Sketch Engine на графиге отображён спад частотности слова oversee. Однако частота этого слова продолжает расти в период с 1990 по 1993 в Google Ngram. Возможно, данные рознятся из-за того, что корпус BNC более узкий, чем Google Ngram, и он не всецело охватывает все тексты, произведения, вхождения.
+
